@@ -1,8 +1,7 @@
 # Special Input/Output
 Team #
-1. teamlid 
-2. teamlid
-3. teamlid
+1. Suryani Dommershuijzen 
+2. Burhan Topaloglu
 
 [Projectmanagment]() <Trello scrumboard bijvoorbeeld>
 
