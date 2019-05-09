@@ -1,5 +1,5 @@
 # Special Input/Output
-Team #
+Team 3
 1. Suryani Dommershuijzen 
 2. Burhan Topaloglu
 
