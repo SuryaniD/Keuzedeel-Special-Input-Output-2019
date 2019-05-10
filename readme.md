@@ -3,7 +3,7 @@ Team 3
 1. Suryani Dommershuijzen 
 2. Burhan Topaloglu
 
-[Projectmanagment]() <Trello scrumboard bijvoorbeeld>
+[Projectmanagment](https://trello.com/b/utXIRx2o/special-i-o-2019) <Trello scrumboard bijvoorbeeld>
 
 ## Ontwerp
 Beschrijf hier kort jullie project
